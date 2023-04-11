@@ -1,5 +1,6 @@
 # tp3
 Groupe IUTC-727
+
 RAVENEL Martin
 MAROUARD Louis
 COCAGNE Oscar
@@ -34,18 +35,6 @@ Installation de services réseaux
 
 
 2023                                                                                                                     IUT Le Havre
-
-Sommaire : 
-
-
-
-
-
-
-
-
-
-
 
 TP1 : Travailler sur un répertoire local
 
@@ -164,7 +153,7 @@ Sur GitHub on peut ajouter des collaborateurs pour travailler à plusieurs sur u
 
 Une fois un collaborateur ajouter, ce dernier peut entrez une commande qui lui permet de récupérer tous les fichiers:
 
-![alt text](/images/sae2.03(9).png)
+![alt text](/images/sae2.03(12).png)
 
 Une fois que tout les collaborateur ont tous les fichiers, ils peuvent enregistrer leur travaux avec la commande vu juste avant :  git push
 
@@ -183,16 +172,16 @@ En collaboration on peut mener un projet sur java simultanément sur le fichier 
 La fonctionnalités des branches est très importantes , il faut donc toujours savoir dans quel branche on travail et bien les répartir avec les commandes
 	-git branch
 	
-![alt text](/images/sae2.03(10).png)
+![alt text](/images/sae2.03(9).png)
 
 	-tree
 
-![alt text](/images/sae2.03(11).png)
+![alt text](/images/sae2.03(10).png)
 
 
 On peut peut donc créer de nouvelle branche:
 
-![alt text](/images/sae2.03(12).png)
+![alt text](/images/sae2.03(11).png)
 
 
 Les fichiers qui seront créés dans cette branche ne seront que dans cette branche.
