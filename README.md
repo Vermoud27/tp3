@@ -50,4 +50,4 @@ Sommaire :
 TP1 : Travailler sur un répertoire local
 
 1)La commande git config list après les configurations demandées nous donne ceci : 
-![alt text](/images/sae2.03(1).png)
+![alt text](/images/1.png)
