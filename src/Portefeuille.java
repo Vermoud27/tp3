@@ -33,10 +33,8 @@ public class Portefeuille {
    * @return true si le montant en euros est supérieur ou égal à 0 
    */
   public boolean achatDevise (double montantEuros){
-	/**
-           FONCTION À IMPLEMENTER
-	**/
-    return false;
+	if(this.montantEuros >= 0) return true;
+  	return false;
   }
 
   /**
