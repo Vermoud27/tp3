@@ -136,7 +136,7 @@ Pour transvaser entre GitHub et notre terminal il faut plusieur commande:
 
 ![alt text](/images/sae2.03(5).png)
 
--En second git add . (ou) -A (ou) <Nom du fichier>, qui permet d’ajouter dans le Git soit tous les fichier, soit un en particulier.
+-En second git add . (ou) -A (ou) "Nom du fichier", qui permet d’ajouter dans le Git soit tous les fichier, soit un en particulier.
 
 -Puis git commit -m”Info de l’action” qui permet de décrire l'intérêt de l’action:
 
@@ -197,6 +197,6 @@ On peut peut donc créer de nouvelle branche:
 
 Les fichiers qui seront créés dans cette branche ne seront que dans cette branche.
 
-On peut fusionner les branches à tout moment pour que les branches est accès au fichiers des autres branches avec la commande git merge <Nom fichier>
+On peut fusionner les branches à tout moment pour que les branches est accès au fichiers des autres branches avec la commande git merge "Nom fichier"
 
 
