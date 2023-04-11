@@ -171,11 +171,11 @@ En collaboration on peut mener un projet sur java simultanément sur le fichier 
 
 La fonctionnalités des branches est très importantes , il faut donc toujours savoir dans quel branche on travail et bien les répartir avec les commandes
 	
--git branch
+git branch
 	
 ![alt text](/images/sae2.03(9).png)
 
--tree
+tree
 
 ![alt text](/images/sae2.03(10).png)
 
