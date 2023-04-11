@@ -1,5 +1,6 @@
 # tp3
-RAVENEL Martin                                                                                         Groupe IUTC-727
+                                                                                        Groupe IUTC-727
+RAVENEL Martin
 MAROUARD Louis
 COCAGNE Oscar
 LELIEVRE David
@@ -49,4 +50,4 @@ Sommaire :
 TP1 : Travailler sur un répertoire local
 
 1)La commande git config list après les configurations demandées nous donne ceci : 
-![alt text](http:/Course-GIT/tp3/images/sae2.03(1).jpeg)
+![alt text](/images/sae2.03(1).jpeg)
