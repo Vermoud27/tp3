@@ -190,3 +190,27 @@ Les fichiers qui seront créés dans cette branche ne seront que dans cette bran
 On peut fusionner les branches à tout moment pour que les branches est accès au fichiers des autres branches avec la commande git merge "Nom fichier"
 
 
+
+
+TP 4 : Résolution de conflits et pull request
+
+1) Créer un conflit
+
+Si 2 utilisateur travail sur le même fichier en même temps et que l'un des deux apporte des modification sans que l'autre n'est mi a jour le Git alors cela engendra un conflit
+
+
+![alt text](/images/24.png)
+
+
+2) Résoudre un conflit
+
+Pour reperer les conflits on peut utiliser la commande git diff qui va nous afficher dans le terminal la position des conflits, on pourra donc remplacer le conflits puis tout enregistrer
+
+
+3) Un exemple simple de pull request
+
+Une pull request consiste à faire une copie d’un réferentiel sur notre compte, à créer une branche pour apporter des modifications et à notifier le propriétaire du réferentiel d’origin afin qu’il accepte les changements que nous proposons.
+
+par exemple si on veut faire un pull request sur le Git de juanluck
+https://github.com/juanluck/test-pull-request-2022
+
