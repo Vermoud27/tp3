@@ -211,5 +211,6 @@ Pour reperer les conflits on peut utiliser la commande git diff qui va nous affi
 
 Une pull request consiste à faire une copie d’un réferentiel sur notre compte, à créer une branche pour apporter des modifications et à notifier le propriétaire du réferentiel d’origin afin qu’il accepte les changements que nous proposons.
 
-par exemple si on veut faire un pull request sur le Git de juanluck[cliquer ici pour le lien](https://github.com/juanluck/test-pull-request-2022/blob/main/README.md)
+par exemple si on veut faire un pull request sur le Git de juanluck
+[cliquer ici pour le lien](https://github.com/juanluck/test-pull-request-2022/blob/main/README.md)
 
